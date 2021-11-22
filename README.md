@@ -23,10 +23,10 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
+<img width="509" alt="fm-s-1" src="https://user-images.githubusercontent.com/1849689/142860626-7fc43ecf-5d78-42bf-b511-c4e149c6aca7.png">
 
-![](./screenshot.jp<img width="50<img width="1391" alt="fm-s-2" src="https://user-images.githubusercontent.com/1849689/142860459-04ed0026-28a2-490d-9138-feb5934ed4be.png">
-9" alt="fm-s-1" src="https://user-images.githubusercontent.com/1849689/142860428-1e079ecc-eeed-44dd-93f8-9ae159d5bc44.png">
-g)
+
+<img width="1391" alt="fm-s-2" src="https://user-images.githubusercontent.com/1849689/142860641-46e7913b-f356-479b-947c-38a7c8feef26.png">
 
 ### Links
 
