@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [](https://cssbubble.github.io/sunnyside-landing-page/)
+- Live Site URL: [sunnyside landing page](https://cssbubble.github.io/sunnyside-landing-page/)
 
 
 ### Built with
